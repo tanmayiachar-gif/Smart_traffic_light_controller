@@ -1,0 +1,23 @@
+# Build files
+*.o
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+
+# Keil temporary files
+*.uvgui.*
+*.bak
+*.dep
+
+# Debug folders
+Debug/
+Objects/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
